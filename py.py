@@ -1,0 +1,2 @@
+import category_encoders
+print(category_encoders.__version__)
